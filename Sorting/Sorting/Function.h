@@ -6,6 +6,13 @@ using namespace std;
 
 
 
+double* insert_sort(double *);
+
+void print(double *);
+
+
+
+
 
 
 
