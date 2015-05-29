@@ -3,16 +3,16 @@
 
 #include<iostream>
 using namespace std;
+#include<vector>
 
 
+void insert_sort(vector<double>&);
 
-double* insert_sort(double *);
+void print(vector<double> a);
 
-void print(double *);
+void insert_sort_down(vector<double>&);
 
-
-
-
+void merge_sort(vector<double>&);
 
 
 
